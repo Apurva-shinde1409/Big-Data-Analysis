@@ -1,9 +1,9 @@
 # Big-Data-Analysis
-#Introduction
+**#Introduction**
 
-#Problem Statement
+**#Problem Statement**
 The real estate market is inherently volatile, influenced by economic, demographic, and market factors. Identifying high-risk regions is critical for mitigating financial losses, improving investment decisions, and maintaining market stability.
-Objectives
+**Objectives**
 Develop a scalable machine learning model for classifying high-risk and low-risk regions.
 Analyze the impact of key market and economic indicators on real estate risks.
 Provide actionable insights to support data-driven decision-making for stakeholders.
